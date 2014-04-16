@@ -170,7 +170,7 @@ int _tmain(int argc, wchar_t *argv[])
 	ofstream myfile;
     myfile.open ("result.txt");
  
-	
+	int pera;
 	
 /*	for(int i=0;i<;i++)  // loop 3 times for three lines
 	{
